@@ -22,3 +22,7 @@ How to use it:
 Open the Excel file and start on the Dashboard sheet.
 Use the buttons in the right-hand frozen column to switch between the Insight view and the full Data view.
 Explore the charts and metrics to see how the formulas and visuals work together.
+[Dashboard View](images/dashboard_cover.png)
+[Insight View](images/insight_preview.png)
+[Insight View2](images/insight_preview2.png)
+[Data View](images/data_preview.png)
